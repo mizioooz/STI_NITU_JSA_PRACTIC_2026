@@ -12,7 +12,7 @@
 #### Redactor's: ,..
 ---
 
-#### Company: OOO "JSA Group" 4-6 semestr
+#### Company: OOO "JSA Group" 3-4 semestr
 
 ---
 ## Help
